@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rahulkchaudhari
 - 👀 I’m interested in Devops 
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rahul.chaudhari1919@gmail.com
 
 <!---
